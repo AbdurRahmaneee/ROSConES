@@ -3,6 +3,12 @@
 #include <gz/plugin/Register.hh>
 #include <gz/sim/System.hh>
 
+
+int main() {
+	std::cout <<"Hello World!" << std::endl;
+}
+
+
 namespace hello_world
 {
 
